@@ -1,0 +1,715 @@
+returned_table_found: true
+returned_table_start: 79
+returned_table_end: 69925
+returned_table_element_count: 38
+returned_table_elements:
+  0:
+    index: 0
+    start: 80
+    end: 333
+    token_count: 132
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 1
+    bit32_references: 1
+    while_true_loops: 0
+    vm_cache_style_accesses: 0
+    string_indices:
+
+    preview: function ( d ) local e , f , _ , h , c f = 0b100110 repeat
+  1:
+    index: 1
+    start: 334
+    end: 1557
+    token_count: 518
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 2
+    bit32_references: 0
+    while_true_loops: 1
+    vm_cache_style_accesses: 0
+    string_indices:
+      0: 0
+    preview: function ( d , a ) return function ( h , e ) local o , p ,
+  2:
+    index: 2
+    start: 1558
+    end: 1980
+    token_count: 210
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 2
+    bit32_references: 0
+    while_true_loops: 0
+    vm_cache_style_accesses: 3
+    string_indices:
+
+    preview: function ( d ) return function ( h , e , n , _ , o , q
+  3:
+    index: 3
+    start: 1981
+    end: 2213
+    token_count: 143
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 1
+    bit32_references: 1
+    while_true_loops: 0
+    vm_cache_style_accesses: 0
+    string_indices:
+
+    preview: function ( d ) local _ , e , c , h , b c = string e
+  4:
+    index: 4
+    start: 2214
+    end: 4037
+    token_count: 886
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 2
+    bit32_references: 0
+    while_true_loops: 0
+    vm_cache_style_accesses: 16
+    string_indices:
+
+    preview: function ( B ) return function ( h , x , n , _ , o , t
+  5:
+    index: 5
+    start: 4038
+    end: 8926
+    token_count: 2613
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 1
+    bit32_references: 0
+    while_true_loops: 1
+    vm_cache_style_accesses: 46
+    string_indices:
+      0: 1
+      1: 2
+      2: 3
+      3: 4
+      4: 5
+      5: 6
+      6: 7
+      7: 8
+      8: 9
+      9: 10
+      10: 11
+      11: 12
+      12: 13
+      13: 14
+      14: 15
+      15: 16
+      16: 17
+      17: 18
+      18: 19
+      19: 20
+      20: 21
+      21: 22
+      22: 23
+      23: 24
+      24: 25
+      25: 26
+      26: 27
+      27: 28
+      28: 29
+      29: 30
+      30: 31
+      31: 32
+      32: 33
+      33: 34
+      34: 35
+      35: 36
+      36: 37
+      37: 38
+      38: 39
+      39: 40
+      40: 41
+      41: 42
+      42: 43
+      43: 44
+      44: 45
+      45: 46
+      46: 47
+      47: 48
+      48: 49
+      49: 50
+      50: 51
+      51: 52
+      52: 53
+      53: 54
+    preview: function ( B ) local _ , v , u , D , M , J , N
+  6:
+    index: 6
+    start: 8927
+    end: 8936
+    token_count: 3
+    first_token_kind: ident
+    first_token: bit32
+    function_keyword_count: 0
+    bit32_references: 1
+    while_true_loops: 0
+    vm_cache_style_accesses: 0
+    string_indices:
+
+    preview: bit32 . bor
+  7:
+    index: 7
+    start: 8937
+    end: 8985
+    token_count: 33
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 1
+    bit32_references: 0
+    while_true_loops: 0
+    vm_cache_style_accesses: 2
+    string_indices:
+
+    preview: function ( a , b , c , d ) a . U [ d ] = a
+  8:
+    index: 8
+    start: 8986
+    end: 9026
+    token_count: 24
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 1
+    bit32_references: 0
+    while_true_loops: 0
+    vm_cache_style_accesses: 2
+    string_indices:
+
+    preview: function ( a , b , c ) a . U [ c ] = b return a
+  9:
+    index: 9
+    start: 9027
+    end: 9527
+    token_count: 283
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 1
+    bit32_references: 1
+    while_true_loops: 0
+    vm_cache_style_accesses: 0
+    string_indices:
+
+    preview: function ( d ) local i , j , h , l , c , k , b
+  10:
+    index: 10
+    start: 9528
+    end: 11059
+    token_count: 839
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 2
+    bit32_references: 0
+    while_true_loops: 1
+    vm_cache_style_accesses: 0
+    string_indices:
+      0: 55
+      1: 56
+    preview: function ( d , a ) return function ( h ) local q , v , k ,
+  11:
+    index: 11
+    start: 11060
+    end: 11118
+    token_count: 28
+    first_token_kind: ident
+    first_token: h
+    function_keyword_count: 1
+    bit32_references: 0
+    while_true_loops: 0
+    vm_cache_style_accesses: 0
+    string_indices:
+      0: 57
+    preview: h = function ( ... ) return { [ 1 ] = { ... } , [ 0b10
+  12:
+    index: 12
+    start: 11119
+    end: 13490
+    token_count: 1120
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 2
+    bit32_references: 0
+    while_true_loops: 1
+    vm_cache_style_accesses: 22
+    string_indices:
+      0: 58
+    preview: function ( B , z ) return function ( h , x , n , _ , o
+  13:
+    index: 13
+    start: 13491
+    end: 15901
+    token_count: 1175
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 2
+    bit32_references: 0
+    while_true_loops: 0
+    vm_cache_style_accesses: 25
+    string_indices:
+      0: 59
+    preview: function ( B , z ) return function ( h , x , n , _ , o
+  14:
+    index: 14
+    start: 15902
+    end: 16167
+    token_count: 125
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 2
+    bit32_references: 0
+    while_true_loops: 1
+    vm_cache_style_accesses: 2
+    string_indices:
+
+    preview: function ( d ) return function ( h , e , n , _ , b , i
+  15:
+    index: 15
+    start: 16168
+    end: 16305
+    token_count: 65
+    first_token_kind: ident
+    first_token: i
+    function_keyword_count: 3
+    bit32_references: 0
+    while_true_loops: 0
+    vm_cache_style_accesses: 0
+    string_indices:
+
+    preview: i = ( function ( ) local function m ( i , j , k ) if j
+  16:
+    index: 16
+    start: 16306
+    end: 16308
+    token_count: 2
+    first_token_kind: symbol
+    first_token: {
+    function_keyword_count: 0
+    bit32_references: 0
+    while_true_loops: 0
+    vm_cache_style_accesses: 0
+    string_indices:
+
+    preview: { }
+  17:
+    index: 17
+    start: 16309
+    end: 16319
+    token_count: 3
+    first_token_kind: ident
+    first_token: bit32
+    function_keyword_count: 0
+    bit32_references: 1
+    while_true_loops: 0
+    vm_cache_style_accesses: 0
+    string_indices:
+
+    preview: bit32 . bxor
+  18:
+    index: 18
+    start: 16320
+    end: 16604
+    token_count: 24
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 1
+    bit32_references: 0
+    while_true_loops: 0
+    vm_cache_style_accesses: 0
+    string_indices:
+      0: 60
+    preview: function ( a , b ) return a . F ( a . t ( a . q
+  19:
+    index: 19
+    start: 16605
+    end: 16678
+    token_count: 54
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 1
+    bit32_references: 0
+    while_true_loops: 0
+    vm_cache_style_accesses: 0
+    string_indices:
+
+    preview: function ( a , ... ) a . q , a . t , a . o =
+  20:
+    index: 20
+    start: 16679
+    end: 16966
+    token_count: 192
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 1
+    bit32_references: 0
+    while_true_loops: 0
+    vm_cache_style_accesses: 2
+    string_indices:
+
+    preview: function ( a , b , c , d , e ) a . U [ e ]
+  21:
+    index: 21
+    start: 16967
+    end: 17830
+    token_count: 484
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 2
+    bit32_references: 0
+    while_true_loops: 1
+    vm_cache_style_accesses: 0
+    string_indices:
+      0: 61
+    preview: function ( d , a ) return function ( h ) local e , c , l ,
+  22:
+    index: 22
+    start: 17831
+    end: 18417
+    token_count: 292
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 2
+    bit32_references: 0
+    while_true_loops: 1
+    vm_cache_style_accesses: 0
+    string_indices:
+      0: 62
+      1: 63
+    preview: function ( d , a ) return function ( h ) local b , k , j ,
+  23:
+    index: 23
+    start: 18418
+    end: 56913
+    token_count: 17795
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 2
+    bit32_references: 0
+    while_true_loops: 0
+    vm_cache_style_accesses: 326
+    string_indices:
+      0: 64
+      1: 65
+      2: 66
+      3: 67
+      4: 68
+      5: 69
+      6: 70
+      7: 71
+      8: 72
+      9: 73
+      10: 74
+      11: 75
+      12: 76
+      13: 77
+      14: 78
+      15: 79
+      16: 80
+      17: 81
+      18: 82
+      19: 83
+      20: 84
+      21: 85
+      22: 86
+      23: 87
+      24: 88
+      25: 89
+      26: 90
+      27: 91
+      28: 92
+      29: 93
+      30: 94
+      31: 95
+      32: 96
+      33: 97
+      34: 98
+      35: 99
+      36: 100
+      37: 101
+      38: 102
+    preview: function ( B , z ) return function ( ) local A , l , v , j
+  24:
+    index: 24
+    start: 56914
+    end: 63487
+    token_count: 2978
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 2
+    bit32_references: 0
+    while_true_loops: 0
+    vm_cache_style_accesses: 53
+    string_indices:
+      0: 103
+      1: 104
+      2: 105
+      3: 106
+    preview: function ( B , z ) return function ( h ) local a , w , j ,
+  25:
+    index: 25
+    start: 63488
+    end: 63901
+    token_count: 285
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 1
+    bit32_references: 0
+    while_true_loops: 0
+    vm_cache_style_accesses: 2
+    string_indices:
+
+    preview: function ( a , b , c , d , e ) a . U [ e ]
+  26:
+    index: 26
+    start: 63902
+    end: 64140
+    token_count: 132
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 2
+    bit32_references: 0
+    while_true_loops: 1
+    vm_cache_style_accesses: 0
+    string_indices:
+
+    preview: function ( _ , a ) return function ( y , G , B , z ) local
+  27:
+    index: 27
+    start: 64141
+    end: 64151
+    token_count: 3
+    first_token_kind: ident
+    first_token: bit32
+    function_keyword_count: 0
+    bit32_references: 1
+    while_true_loops: 0
+    vm_cache_style_accesses: 0
+    string_indices:
+
+    preview: bit32 . band
+  28:
+    index: 28
+    start: 64152
+    end: 65141
+    token_count: 551
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 2
+    bit32_references: 0
+    while_true_loops: 1
+    vm_cache_style_accesses: 2
+    string_indices:
+
+    preview: function ( d , a ) return function ( h , e ) local i , b ,
+  29:
+    index: 29
+    start: 65142
+    end: 66086
+    token_count: 398
+    first_token_kind: ident
+    first_token: l
+    function_keyword_count: 1
+    bit32_references: 0
+    while_true_loops: 1
+    vm_cache_style_accesses: 0
+    string_indices:
+
+    preview: l = function ( d , e , n , ... ) local l , _ , o
+  30:
+    index: 30
+    start: 66087
+    end: 66097
+    token_count: 3
+    first_token_kind: ident
+    first_token: bit32
+    function_keyword_count: 0
+    bit32_references: 1
+    while_true_loops: 0
+    vm_cache_style_accesses: 0
+    string_indices:
+
+    preview: bit32 . bnot
+  31:
+    index: 31
+    start: 66098
+    end: 67421
+    token_count: 639
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 2
+    bit32_references: 0
+    while_true_loops: 1
+    vm_cache_style_accesses: 8
+    string_indices:
+
+    preview: function ( d ) return function ( h , x , n , _ , o , t
+  32:
+    index: 32
+    start: 67422
+    end: 67697
+    token_count: 129
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 2
+    bit32_references: 0
+    while_true_loops: 1
+    vm_cache_style_accesses: 0
+    string_indices:
+
+    preview: function ( d , a ) return function ( h , e ) local c , f ,
+  33:
+    index: 33
+    start: 67698
+    end: 69226
+    token_count: 798
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 2
+    bit32_references: 0
+    while_true_loops: 1
+    vm_cache_style_accesses: 8
+    string_indices:
+
+    preview: function ( d , a ) return function ( ... ) local p , r , k ,
+  34:
+    index: 34
+    start: 69227
+    end: 69314
+    token_count: 46
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 2
+    bit32_references: 0
+    while_true_loops: 0
+    vm_cache_style_accesses: 0
+    string_indices:
+
+    preview: function ( d ) return function ( h , e , n , _ , b , i
+  35:
+    index: 35
+    start: 69315
+    end: 69626
+    token_count: 240
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 1
+    bit32_references: 0
+    while_true_loops: 0
+    vm_cache_style_accesses: 2
+    string_indices:
+
+    preview: function ( a , b , c , d ) a . U [ d ] = -
+  36:
+    index: 36
+    start: 69627
+    end: 69914
+    token_count: 141
+    first_token_kind: keyword
+    first_token: function
+    function_keyword_count: 2
+    bit32_references: 0
+    while_true_loops: 1
+    vm_cache_style_accesses: 2
+    string_indices:
+
+    preview: function ( d ) return function ( h , e , n , _ , o , i
+  37:
+    index: 37
+    start: 69915
+    end: 69924
+    token_count: 3
+    first_token_kind: ident
+    first_token: getfenv
+    function_keyword_count: 0
+    bit32_references: 0
+    while_true_loops: 0
+    vm_cache_style_accesses: 0
+    string_indices:
+
+    preview: getfenv ( )
+string_array_candidates:
+  0:
+    start: 69929
+    end: 70072
+    count: 35
+    values:
+      0: L
+      1: c
+      2: Q
+      3: P
+      4: J
+      5: S
+      6: o
+      7: N
+      8: M
+      9: K
+      10: t
+      11: r
+      12: I
+      13: V
+      14: X
+      15: G
+      16: F
+      17: k
+      18: d
+      19: q
+      20: U
+      21: a
+      22: p
+      23: H
+      24: _a
+      25: _
+      26: u
+      27: R
+      28: Y
+      29: W
+      30: s
+      31: T
+      32: b
+      33: aa
+      34: O
+likely_runtime_name_table:
+  start: 69929
+  end: 70072
+  count: 35
+  values:
+    0: L
+    1: c
+    2: Q
+    3: P
+    4: J
+    5: S
+    6: o
+    7: N
+    8: M
+    9: K
+    10: t
+    11: r
+    12: I
+    13: V
+    14: X
+    15: G
+    16: F
+    17: k
+    18: d
+    19: q
+    20: U
+    21: a
+    22: p
+    23: H
+    24: _a
+    25: _
+    26: u
+    27: R
+    28: Y
+    29: W
+    30: s
+    31: T
+    32: b
+    33: aa
+    34: O
+name_alignment: not inferred: the returned table contains mixed values/nested closures; position-by-position mapping would be speculative

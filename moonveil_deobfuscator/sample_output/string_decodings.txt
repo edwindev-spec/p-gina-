@@ -1,0 +1,3 @@
+Cadena #60 | candidato=custom-base85 | confianza=experimental | bytes=195 | sha256=7401c6f35c4888dc73fabc1f2ed9977c84bf9000dc6307f9eb940a56e78677bf | ratio imprimible=0.2974
+Base: experimental: alfabeto Base85 candidato; formato no confirmado
+Vista previa: ff 08 01 5c 04 3b 3d 31 39 ff 01 2d 01 3c 4d 18 f5 04 ff f1 03 bb 5f ae 11 f1 19 ff af 1c f4 11 f3 1d ee 02 ff af 1e e4 04 ae 16 e8 1c ff e4 03
